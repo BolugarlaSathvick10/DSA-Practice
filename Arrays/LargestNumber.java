@@ -1,4 +1,4 @@
-package Arryas;
+package Arrays;
 
 import java.util.Scanner;
 public class LargestNumber{
